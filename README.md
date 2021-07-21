@@ -3,7 +3,7 @@ This is a Shiny App calculator allowing to change brand shares while keeping tot
 ![SharesApportioningTool](https://user-images.githubusercontent.com/59995500/126486168-da7490c9-0261-43e3-a1a1-8cbe2e0a77f6.jpg)
 
 
-**This folder contains:**
+**This repository contains:**
 * UI and Server scripts for the Shiny App
 * [Input example Excel file](https://github.com/denisaf0nin/SharesApportioning/blob/main/Input%20example.xlsx?raw=true) (mock data)
 * [Link to the App at shinyapps.io](https://denisafonin.shinyapps.io/SharesApportioning/)
