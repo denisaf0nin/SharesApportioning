@@ -3,12 +3,12 @@ This is a Shiny App calculator allowing to change brand shares while keeping tot
 
 This folder contains:
 * UI and Server scripts for the Shiny App
-* [Example of input data](https://github.com/denisaf0nin/SharesApportioning/blob/main/Input%20example.xlsx?raw=true) (mock data)
+* [Input example Excel file](https://github.com/denisaf0nin/SharesApportioning/blob/main/Input%20example.xlsx?raw=true) (mock data)
 * [Link to the App at shinyapps.io](https://denisafonin.shinyapps.io/SharesApportioning/)
 
 **INSTRUCTIONS:**
 1. Open the App
-2. Copy data from the Excel file (the outlined cell range)
+2. Download the Input example file. Copy data from the Excel file (the outlined cell range)
 3. Paste to A1 cell of the app
 4. Press Crop (The app is designed to work with variable number of columns. By pressing Crop you set the table range to non-empty cells)
 5. Edit numbers in the table
