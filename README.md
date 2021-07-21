@@ -1,10 +1,10 @@
 # SharesApportioning
-A Shiny App calculator allowing to change brand share while keeping total sum at 100% and splitting the remainder across other brands proportional to their existing share.
+This is a Shiny App calculator allowing to change brand shares while keeping total sum at 100% and splitting the remainder across other brands proportional to their existing share.
 
 This folder contains:
 * UI and Server scripts for the Shiny App
 * Example of input data (mock data)
-* [Link to the App (shinyapps.io)](https://denisafonin.shinyapps.io/SharesApportioning/)
+* [Link to the App at shinyapps.io](https://denisafonin.shinyapps.io/SharesApportioning/)
 
 **INSTRUCTIONS:**
 1. Open the App
