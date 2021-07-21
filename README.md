@@ -1,4 +1,4 @@
-# Shares Apportioning
+# Shares Apportioning Calculator
 This is a Shiny App calculator allowing to change brand shares while keeping total sum at 100% and splitting the remainder across other brands proportional to their existing share.
 
 This folder contains:
